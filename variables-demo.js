@@ -3,7 +3,7 @@
 // Variables Demo
 
 // Declare and initialize two variables 
-let firstName = 'Mike';
+const firstName = 'Mike';
 let age = 17;
 
 console.log(`My name is ${firstName} and I am ${age} years old.`);
